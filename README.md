@@ -1,3 +1,3 @@
 # exercise
 
-file:///C:/Users/bojov/Documents/Premierprojet/index.html
+https://openclassrooms.com/fr/about-us
