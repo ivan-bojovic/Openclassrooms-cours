@@ -1,3 +1,6 @@
-# exercise
+#  exercise
 
-https://openclassrooms.com/fr/about-us
+https://openclassrooms.com/fr/about-u
+
+https://ivan-bojovic.github.io/Openclassrooms-cours/
+
